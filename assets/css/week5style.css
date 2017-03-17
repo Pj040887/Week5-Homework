@@ -1,0 +1,53 @@
+.answer {
+
+    transition: background-color 1s;
+
+}
+
+
+
+.answer:hover
+
+{
+
+    text-align: center;
+
+    background-color: blue;
+
+}
+
+
+
+.jumbotron{
+
+    text-align: center;
+
+    background: rgba(255, 255, 255, 0.80); 
+
+    background: rgba(255, 255, 255); 
+
+}
+
+
+
+body{
+
+     background: url("../images/background.jpg");
+
+     background-repeat: no-repeat;
+
+     background-position: top center;
+
+     background-color: black;
+
+     background-size: cover;
+
+}
+
+
+
+header{
+
+    color: purple;
+
+}
